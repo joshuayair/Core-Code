@@ -13,5 +13,6 @@ _**¿Se compila o interpreta el lenguaje Java?** Es un lenguaje de programación
 7. guardar el resultado de la conversion en la variable total.
 8. mostrar el resultado.
 
-
+**Por que el Pseudocódigo es funcional?**
+El pseudocódigo es de gran utilidad ya que es un lenguaje no stricto donde tu usas la imaginacion para crear la noción de como funcionara tu programa, ya que se debe escribir de una forma donde tu entiendes para usarlo como mapa a la hora de realizar un programa en un lenguaje de programación.
 
