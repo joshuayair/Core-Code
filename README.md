@@ -29,6 +29,10 @@ El pseudocódigo es de gran utilidad ya que es un lenguaje no stricto donde tu u
   - edadAprox = AñoActual-AñodeNacimiento;
   - Escribir "la edad aproximida es : ",edadAprox
   - **FIN**
+  
+ **Por que los Diagramas de flujo son importantes para nosotros los desarrolladores?**
+Porque estos diagramas nos ayudan a representar y resolver de una forma mas clara y no compleja los procesos, tambien para documentar , estudiar, planificar y mejorar diferentes proyectos ya que estos se reprentan de una forma muy sencilla utilizando figuras para comunicar de mejor manera tu proceso.
  
  
+
 
