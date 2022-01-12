@@ -16,3 +16,19 @@ _**¿Se compila o interpreta el lenguaje Java?** Es un lenguaje de programación
 **Por que el Pseudocódigo es funcional?**
 El pseudocódigo es de gran utilidad ya que es un lenguaje no stricto donde tu usas la imaginacion para crear la noción de como funcionara tu programa, ya que se debe escribir de una forma donde tu entiendes para usarlo como mapa a la hora de realizar un programa en un lenguaje de programación.
 
+**Ejemplo de Pseudocódigo de edad aproximada**
+- Datos
+ 1. varibles: AñoActual, AñodeNacimiento, edadAprox;
+- **procesos**
+ 1. variable AñoActual <-- 2022 como entero.
+ 2. varieble AñodeNacimiento (pedir dato) como entero.
+ 3. Varible edadAprox como entero;
+  - **INICIO** 
+  - Escribir "Año de Nacimiento";
+  - leer AñodeNacimiento;
+  - edadAprox = AñoActual-AñodeNacimiento;
+  - Escribir "la edad aproximida es : ",edadAprox
+  - **FIN**
+ 
+ 
+
