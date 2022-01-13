@@ -42,6 +42,9 @@ Porque estos diagramas nos ayudan a representar y resolver de una forma mas clar
 - 2002 de binario a Hexagecimal
 ![image](https://user-images.githubusercontent.com/91924743/149249698-d95fa81c-0328-4ec8-8f2b-8fa47b6c561f.png)
 
+**51966 a binario y hexagecial**
+![image](https://user-images.githubusercontent.com/91924743/149251786-83a9e641-88f8-4e9f-8b83-f1e705426539.png)
+
 
 
 
