@@ -32,7 +32,17 @@ El pseudocódigo es de gran utilidad ya que es un lenguaje no stricto donde tu u
   
  **Por que los Diagramas de flujo son importantes para nosotros los desarrolladores?**
 Porque estos diagramas nos ayudan a representar y resolver de una forma mas clara y no compleja los procesos, tambien para documentar , estudiar, planificar y mejorar diferentes proyectos ya que estos se reprentan de una forma muy sencilla utilizando figuras para comunicar de mejor manera tu proceso.
- 
- 
+
+ # Week challenges (Wednesday) 💻
+
+**Año de nacimiento a Binario ,decimal y hexagecimal.**
+- por lo tando: 2002 binario
+
+![image](https://user-images.githubusercontent.com/91924743/149244633-59fb008b-30cb-4aff-9c1e-7f6390e3bd16.png)
+- 2002 de binario a Hexagecimal
+![image](https://user-images.githubusercontent.com/91924743/149249698-d95fa81c-0328-4ec8-8f2b-8fa47b6c561f.png)
+
+
+
 
 
